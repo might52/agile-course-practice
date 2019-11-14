@@ -1,50 +1,46 @@
 // Bevzuk Anton
 include "code/bevzuk-anton"
-project(":code/bevzuk-anton").name = "bevzuk-anton-Model"
+project(":code/bevzuk-anton").name = "bevzuk-anton-model"
 
 // Korniakov Kirill, lab1
 include "code/korniakov-kirill-lab1"
-project(":code/korniakov-kirill-lab1").name = "korniakov-kirill-lab1-Model"
-
-// Zyrina Anna, lab1
-include "code/lab1-tdd-sorting"
-project(":code/lab1-tdd-sorting").name = "lab1-tdd-Sorting"
+project(":code/korniakov-kirill-lab1").name = "korniakov-kirill-lab1-model"
 
 // Korniakov Kirill, lab2-legacy
-include "code/korniakov-kirill-lab2-legacy/Model"
-project(":code/korniakov-kirill-lab2-legacy/Model").name = "korniakov-kirill-lab2-Model-legacy"
-include "code/korniakov-kirill-lab2-legacy/ViewModel"
-project(":code/korniakov-kirill-lab2-legacy/ViewModel").name = "korniakov-kirill-lab2-ViewModel-legacy"
-include "code/korniakov-kirill-lab2-legacy/View"
-project(":code/korniakov-kirill-lab2-legacy/View").name = "korniakov-kirill-lab2-View-legacy"
+include "code/korniakov-kirill-lab2-legacy/model"
+project(":code/korniakov-kirill-lab2-legacy/model").name = "korniakov-kirill-lab2-model-legacy"
+include "code/korniakov-kirill-lab2-legacy/viewmodel"
+project(":code/korniakov-kirill-lab2-legacy/viewmodel").name = "korniakov-kirill-lab2-viewmodel-legacy"
+include "code/korniakov-kirill-lab2-legacy/view"
+project(":code/korniakov-kirill-lab2-legacy/view").name = "korniakov-kirill-lab2-view-legacy"
 
 // Korniakov Kirill, lab2
-include "code/korniakov-kirill-lab2/Model"
-project(":code/korniakov-kirill-lab2/Model").name = "korniakov-kirill-lab2-Model"
-include "code/korniakov-kirill-lab2/ViewModel"
-project(":code/korniakov-kirill-lab2/ViewModel").name = "korniakov-kirill-lab2-ViewModel"
-include "code/korniakov-kirill-lab2/View"
-project(":code/korniakov-kirill-lab2/View").name = "korniakov-kirill-lab2-View"
+include "code/korniakov-kirill-lab2/model"
+project(":code/korniakov-kirill-lab2/model").name = "korniakov-kirill-lab2-model"
+include "code/korniakov-kirill-lab2/viewmodel"
+project(":code/korniakov-kirill-lab2/viewmodel").name = "korniakov-kirill-lab2-viewmodel"
+include "code/korniakov-kirill-lab2/view"
+project(":code/korniakov-kirill-lab2/view").name = "korniakov-kirill-lab2-view"
 
 // Korniakov Kirill, lab3-legacy
-include "code/korniakov-kirill-lab3-legacy/Model"
-project(":code/korniakov-kirill-lab3-legacy/Model").name = "korniakov-kirill-lab3-Model-legacy"
-include "code/korniakov-kirill-lab3-legacy/ViewModel"
-project(":code/korniakov-kirill-lab3-legacy/ViewModel").name = "korniakov-kirill-lab3-ViewModel-legacy"
-include "code/korniakov-kirill-lab3-legacy/View"
-project(":code/korniakov-kirill-lab3-legacy/View").name = "korniakov-kirill-lab3-View-legacy"
-include "code/korniakov-kirill-lab3-legacy/Infrastructure"
-project(":code/korniakov-kirill-lab3-legacy/Infrastructure").name = "korniakov-kirill-lab3-Infrastructure-legacy"
+include "code/korniakov-kirill-lab3-legacy/model"
+project(":code/korniakov-kirill-lab3-legacy/model").name = "korniakov-kirill-lab3-model-legacy"
+include "code/korniakov-kirill-lab3-legacy/viewmodel"
+project(":code/korniakov-kirill-lab3-legacy/viewmodel").name = "korniakov-kirill-lab3-viewmodel-legacy"
+include "code/korniakov-kirill-lab3-legacy/view"
+project(":code/korniakov-kirill-lab3-legacy/view").name = "korniakov-kirill-lab3-view-legacy"
+include "code/korniakov-kirill-lab3-legacy/infrastructure"
+project(":code/korniakov-kirill-lab3-legacy/infrastructure").name = "korniakov-kirill-lab3-infrastructure-legacy"
 
 // Korniakov Kirill, lab3
-include "code/korniakov-kirill-lab3/Model"
-project(":code/korniakov-kirill-lab3/Model").name = "korniakov-kirill-lab3-Model"
-include "code/korniakov-kirill-lab3/ViewModel"
-project(":code/korniakov-kirill-lab3/ViewModel").name = "korniakov-kirill-lab3-ViewModel"
-include "code/korniakov-kirill-lab3/View"
-project(":code/korniakov-kirill-lab3/View").name = "korniakov-kirill-lab3-View"
-include "code/korniakov-kirill-lab3/Infrastructure"
-project(":code/korniakov-kirill-lab3/Infrastructure").name = "korniakov-kirill-lab3-Infrastructure"
+include "code/korniakov-kirill-lab3/model"
+project(":code/korniakov-kirill-lab3/model").name = "korniakov-kirill-lab3-model"
+include "code/korniakov-kirill-lab3/viewmodel"
+project(":code/korniakov-kirill-lab3/viewmodel").name = "korniakov-kirill-lab3-viewmodel"
+include "code/korniakov-kirill-lab3/view"
+project(":code/korniakov-kirill-lab3/view").name = "korniakov-kirill-lab3-view"
+include "code/korniakov-kirill-lab3/infrastructure"
+project(":code/korniakov-kirill-lab3/infrastructure").name = "korniakov-kirill-lab3-infrastructure"
 
 // Алексеев Сергей
 // Антипин Никита
@@ -56,18 +52,20 @@ include "code/fractioncalculator"
 project(":code/fractioncalculator").name = "fractioncalculator"
 // Гришин Дмитрий
 // Зырина Анна
+include "code/lab1-tdd-sorting"
+project(":code/lab1-tdd-sorting").name = "lab1-tdd-sorting"
 // Кальянов Дмитрий
 // Карев Борис
 include "code/length-converter"
-project(":code/length-converter").name = "length-converter-Model"
+project(":code/length-converter").name = "length-converter-model"
 // Кильдишев Максим
 include "code/figures-volume-calculator"
-project(":code/figures-volume-calculator").name = "figures-volume-calculator-Model"
+project(":code/figures-volume-calculator").name = "figures-volume-calculator-model"
 // Киселева Ольга
 // Конева Александра
 // Коневский Виталий
 include "code/deposit-calculator"
-project(":code/deposit-calculator").name = "deposit-calculator-Model"
+project(":code/deposit-calculator").name = "deposit-calculator-model"
 // Кочетова Дарья
 // Красильников Михаил
 // Краснов Александр
@@ -77,14 +75,14 @@ project(":code/deposit-calculator").name = "deposit-calculator-Model"
 // Кучков Иван
 // Лапин Артем
 include "code/quadratic-equasion"
-project(":code/quadratic-equasion").name = "quadratic-equasion-Model"
+project(":code/quadratic-equasion").name = "quadratic-equasion-model"
 // Лахтачев Ярослав
 // Миронова Анна
 include "code/statistics-calculation"
-project(":code/statistics-calculation").name = "statistics-calculation-Model"
+project(":code/statistics-calculation").name = "statistics-calculation-model"
 // Митрохин Никита
 include "code/queue"
-project(":code/queue").name = "queue-Model"
+project(":code/queue").name = "queue-model"
 // Нестеров Александр
 // Нечесанов Владимир
 // Овчарук Олег
@@ -98,10 +96,10 @@ project(":code/interpolationsearch").name = "interpolationsearch"
 // Разин Вячеслав
 // Сизова Ксения
 include "code/binary-search"
-project(":code/binary-search").name = "binary-search-Model"
+project(":code/binary-search").name = "binary-search-model"
 // Симонян Вагинак
 include "code/students-performance"
-project(":code/students-performance").name = "students-performance-Model"
+project(":code/students-performance").name = "students-performance-model"
 // Смирнов Андрей
 // Смирнов Егор
 // Тамилина Дарья
@@ -113,8 +111,8 @@ project(":code/datastructure-set").name = "datastructure-set"
 // Широких Виолетта
 // Шульпин Степан
 include "code/mortgage-calculator"
-project(":code/mortgage-calculator").name = "mortgage-calculator-Model"
+project(":code/mortgage-calculator").name = "mortgage-calculator-model"
 // Шумихин Сергей
 // Юферев Кирилл
 include "code/stack"
-project(":code/stack").name = "stack-Model"
+project(":code/stack").name = "stack-model"

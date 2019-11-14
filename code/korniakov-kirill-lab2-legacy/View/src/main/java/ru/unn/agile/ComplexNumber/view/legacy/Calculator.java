@@ -1,6 +1,6 @@
-package ru.unn.agile.ComplexNumber.view.legacy;
+package ru.unn.agile.complexnumber.view.legacy;
 
-import ru.unn.agile.ComplexNumber.viewmodel.legacy.ViewModel;
+import ru.unn.agile.complexnumber.viewmodel.legacy.ViewModel;
 
 import javax.swing.*;
 import java.awt.event.ActionEvent;

@@ -1,11 +1,10 @@
-package ru.unn.agile.ComplexNumber.Model;
+package ru.unn.agile.complexnumber.model;
 
 import org.junit.Test;
-import ru.unn.agile.ComplexNumber.model.ComplexNumber;
 
 import static org.junit.Assert.*;
-import static ru.unn.agile.ComplexNumber.model.ComplexNumber.Operation.ADD;
-import static ru.unn.agile.ComplexNumber.model.ComplexNumber.Operation.MULTIPLY;
+import static ru.unn.agile.complexnumber.model.ComplexNumber.Operation.ADD;
+import static ru.unn.agile.complexnumber.model.ComplexNumber.Operation.MULTIPLY;
 
 public class KarevBorisTest {
 

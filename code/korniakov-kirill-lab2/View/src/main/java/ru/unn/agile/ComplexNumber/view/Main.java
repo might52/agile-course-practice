@@ -1,4 +1,4 @@
-package ru.unn.agile.ComplexNumber.view;
+package ru.unn.agile.complexnumber.view;
 
 import javafx.application.Application;
 import javafx.fxml.FXMLLoader;

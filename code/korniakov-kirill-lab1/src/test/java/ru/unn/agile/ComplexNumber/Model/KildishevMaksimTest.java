@@ -1,7 +1,7 @@
-package ru.unn.agile.ComplexNumber.Model;
+package ru.unn.agile.complexnumber.model;
 
 import org.junit.Test;
-import ru.unn.agile.ComplexNumber.model.ComplexNumber;
+
 import static org.junit.Assert.*;
 
 public class KildishevMaksimTest {

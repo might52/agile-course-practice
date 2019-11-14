@@ -1,6 +1,6 @@
-package ru.unn.agile.ComplexNumber.viewmodel.legacy;
+package ru.unn.agile.complexnumber.viewmodel.legacy;
 
-import ru.unn.agile.ComplexNumber.model.legacy.ComplexNumber;
+import ru.unn.agile.complexnumber.model.legacy.ComplexNumber;
 
 public class ViewModel {
     private String re1;

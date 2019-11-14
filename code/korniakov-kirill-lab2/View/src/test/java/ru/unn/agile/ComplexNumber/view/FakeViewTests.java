@@ -1,4 +1,4 @@
-package ru.unn.agile.ComplexNumber.view;
+package ru.unn.agile.complexnumber.view;
 
 import org.junit.Ignore;
 import org.junit.Test;

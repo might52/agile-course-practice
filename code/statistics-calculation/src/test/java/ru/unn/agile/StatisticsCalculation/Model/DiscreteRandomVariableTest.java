@@ -1,7 +1,6 @@
-package ru.unn.agile.StatisticsCalculation.Model;
+package ru.unn.agile.statisticscalculation.model;
 
 import org.junit.Test;
-import ru.unn.agile.StatisticsCalculation.model.DiscreteRandomVariable;
 
 import static org.junit.Assert.*;
 

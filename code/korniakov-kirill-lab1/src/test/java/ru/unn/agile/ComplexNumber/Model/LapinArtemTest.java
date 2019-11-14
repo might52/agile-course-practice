@@ -1,10 +1,10 @@
-package ru.unn.agile.ComplexNumber.Model;
+package ru.unn.agile.complexnumber.model;
 
 import org.junit.Test;
-import ru.unn.agile.ComplexNumber.model.ComplexNumber;
-import static ru.unn.agile.ComplexNumber.model.ComplexNumber.Operation;
 
 import static org.junit.Assert.*;
+import static ru.unn.agile.complexnumber.model.ComplexNumber.Operation;
+
 
 
 public class LapinArtemTest {

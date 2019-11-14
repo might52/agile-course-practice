@@ -1,4 +1,4 @@
-package ru.unn.agile.ComplexNumber.view;
+package ru.unn.agile.complexnumber.view;
 
 import javafx.event.ActionEvent;
 import javafx.event.EventHandler;
@@ -6,8 +6,8 @@ import javafx.fxml.FXML;
 import javafx.scene.control.Button;
 import javafx.scene.control.ComboBox;
 import javafx.scene.control.TextField;
-import ru.unn.agile.ComplexNumber.model.ComplexNumber.Operation;
-import ru.unn.agile.ComplexNumber.viewmodel.ViewModel;
+import ru.unn.agile.complexnumber.model.ComplexNumber.Operation;
+import ru.unn.agile.complexnumber.viewmodel.ViewModel;
 
 public class Calculator {
     @FXML

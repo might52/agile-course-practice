@@ -8,5 +8,5 @@ javafx {
 }
 
 dependencies {
-    compile project(':korniakov-kirill-lab3-Model')
+    compile project(':korniakov-kirill-lab3-model')
 }

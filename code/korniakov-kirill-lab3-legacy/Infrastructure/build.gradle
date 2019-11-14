@@ -1,4 +1,4 @@
 dependencies {
-    compile project(':korniakov-kirill-lab3-ViewModel-legacy')
-    testCompile project(':korniakov-kirill-lab3-ViewModel-legacy').sourceSets.test.output
+    compile project(':korniakov-kirill-lab3-viewmodel-legacy')
+    testCompile project(':korniakov-kirill-lab3-viewmodel-legacy').sourceSets.test.output
 }

@@ -1,4 +1,4 @@
-package ru.unn.agile.QuadraticEquasion.model;
+package ru.unn.agile.quadraticequasion.model;
 
 public final class Formatter {
 

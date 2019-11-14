@@ -1,8 +1,7 @@
-package ru.unn.agile.QuadraticEquasion.Model;
+package ru.unn.agile.quadraticequasion.model;
 
 import org.junit.Test;
-import ru.unn.agile.ComplexNumber.model.ComplexNumber;
-import ru.unn.agile.QuadraticEquasion.model.QuadraticEquasion;
+import ru.unn.agile.complexnumber.model.ComplexNumber;
 
 import static org.junit.Assert.*;
 

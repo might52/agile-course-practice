@@ -1,6 +1,5 @@
-package ru.unn.agile.ComplexNumber.Model;
+package ru.unn.agile.complexnumber.model;
 
-import ru.unn.agile.ComplexNumber.model.ComplexNumber;
 import org.junit.Test;
 
 import static org.junit.Assert.*;

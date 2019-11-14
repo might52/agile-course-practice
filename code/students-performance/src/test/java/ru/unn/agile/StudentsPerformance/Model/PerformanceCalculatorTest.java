@@ -1,4 +1,4 @@
-package ru.unn.agile.StudentsPerformance.Model;
+package ru.unn.agile.studentsperformance.model;
 
 import org.junit.Test;
 

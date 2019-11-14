@@ -1,4 +1,4 @@
-package ru.unn.agile.ComplexNumber.viewmodel.legacy;
+package ru.unn.agile.complexnumber.viewmodel.legacy;
 
 import org.hamcrest.BaseMatcher;
 import org.hamcrest.Description;

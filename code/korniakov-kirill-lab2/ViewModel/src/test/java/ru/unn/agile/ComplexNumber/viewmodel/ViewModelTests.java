@@ -1,9 +1,9 @@
-package ru.unn.agile.ComplexNumber.viewmodel;
+package ru.unn.agile.complexnumber.viewmodel;
 
 import org.junit.After;
 import org.junit.Before;
 import org.junit.Test;
-import ru.unn.agile.ComplexNumber.model.ComplexNumber.Operation;
+import ru.unn.agile.complexnumber.model.ComplexNumber.Operation;
 
 import static org.junit.Assert.*;
 

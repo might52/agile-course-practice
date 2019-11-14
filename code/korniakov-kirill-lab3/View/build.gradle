@@ -6,7 +6,7 @@ plugins {
 }
 
 apply plugin: 'application'
-mainClassName = 'ru.unn.agile.ComplexNumber.view_lab3.Main'
+mainClassName = 'ru.unn.agile.complexnumber.viewlab3.Main'
 
 javafx {
     version = "11.0.2"
@@ -14,6 +14,6 @@ javafx {
 }
 
 dependencies {
-    compile project(':korniakov-kirill-lab3-ViewModel')
-    compile project(':korniakov-kirill-lab3-Infrastructure')
+    compile project(':korniakov-kirill-lab3-viewmodel')
+    compile project(':korniakov-kirill-lab3-infrastructure')
 }

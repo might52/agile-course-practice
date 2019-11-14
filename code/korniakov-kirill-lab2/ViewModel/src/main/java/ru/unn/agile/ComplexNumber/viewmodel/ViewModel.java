@@ -1,4 +1,4 @@
-package ru.unn.agile.ComplexNumber.viewmodel;
+package ru.unn.agile.complexnumber.viewmodel;
 
 import javafx.beans.binding.BooleanBinding;
 import javafx.beans.property.*;
@@ -6,8 +6,8 @@ import javafx.beans.value.ChangeListener;
 import javafx.beans.value.ObservableValue;
 import javafx.collections.FXCollections;
 import javafx.collections.ObservableList;
-import ru.unn.agile.ComplexNumber.model.ComplexNumber;
-import ru.unn.agile.ComplexNumber.model.ComplexNumber.Operation;
+import ru.unn.agile.complexnumber.model.ComplexNumber;
+import ru.unn.agile.complexnumber.model.ComplexNumber.Operation;
 
 import java.util.ArrayList;
 import java.util.List;
